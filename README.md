@@ -11,6 +11,8 @@ In this repository and this article you can expect to find information about my 
 Prerequisits: 
 You need to have Python downloaded
 
+## My experience
+
 So far, I have covered many different data types and data structures. I have also done many assignments, as well as one Capstone project. 
 
 I have been studying Python for approximately 4 months now and I am enjoying it a lot.
