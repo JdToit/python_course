@@ -6,17 +6,17 @@ In this repository and this article you can expect to find information about my 
 - Python essentials
 - Capstone projects
 
-## Introduction to Python
+# Introduction to Python
 
 Prerequisits: 
 You need to have Python downloaded
 
-## Python Essentials
+# Python Essentials
 
 So far, I have covered many different data types and data structures. 
 
 
-## Capstone Project
+# Capstone Project
 
 I have also done many assignments, as well as one Capstone project. 
 
