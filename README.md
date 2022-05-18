@@ -1,4 +1,4 @@
-# python-course
+# python_course
 All the material I learn throughout my Python teaching course. 
 
 In this repository and this article you can expect to find information about my learning journey of Python, including:
