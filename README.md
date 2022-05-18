@@ -9,12 +9,14 @@ In this repository and this article you can expect to find information about my 
 # Introduction to Python
 
 Prerequisits: 
-You need to have Python downloaded
+
+Python is a programming used for web programming, data science, artificial intelligence, and many other scientific applications.
+In order to start using Python, you need to have an IDE (Integrated Development Environment) downloaded. There are many different
+ones, such as PyCharm, VSCode, IDLE, Spyder, just to name a few. 
 
 # Python Essentials
 
 So far, I have covered many different data types and data structures. 
-
 
 # Capstone Project
 
