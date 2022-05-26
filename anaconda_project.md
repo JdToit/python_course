@@ -54,7 +54,8 @@ These have been the minimum requirements. The recommended hardware for running A
 ⦁	CPU: 8+ cores
 ⦁	Storage: 4 GB
 
-Installation
+# Installation
+
 The first step to installing Anaconda is to go it its website and choose a Python graphical installer. One can go to https://www.anaconda.com/products/distribution#windows (if using Windows) and download it there. 
 Afterwards, locate your download and double click it to run it. You will then be greeted with the setup:
 
