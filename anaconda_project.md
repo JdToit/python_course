@@ -1,4 +1,4 @@
-# Introduction the the Anaconda Distribution Package
+# Introduction to the Anaconda Distribution Package
 
 ### Introduction
 Anaconda is a distribution, a “package”, of many different Python-related languages used for scientific computing, such as machine learning applications, data science, and large-scale data processing, to name a few. Its goal is to simplify package management and setting up ones environment.  Anaconda was founded by Peter Wang and Travis Oliphant in 2012. Anaconda has over 250 packages pre-installed, and thousands more can be installed. Anaconda can be considered an “all-in-one” package to download. Instead of having to download an IDE, for example Visual Studio Code, and Python itself, and other IDE’s you may need, other resources, tools, more IDE’s, etc., Anaconda installs a large spread of what any Python or R distribution developer may need.
