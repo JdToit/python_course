@@ -153,6 +153,6 @@ https://jmlr.org/papers/volume14/demsar13a/demsar13a.pdf
 https://www.rstudio.com/about/
 https://docs.anaconda.com/
 https://www.datacamp.com/tutorial/installing-anaconda-windows
-https://pythonspeed.com/articles/conda-vs-pip/#:~:text=The%20fundamental%20difference%20between%20pip,even%20the%20Python%20interpreter%20itself).
+https://pythonspeed.com/articles/conda-vs-pip/#:~:text=The%20fundamental%20difference%20between%20pip,even%20the%20Python%20interpreter%20itself
 
 
