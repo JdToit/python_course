@@ -37,10 +37,10 @@ complex_number2 = complex(5j)"""
 \n	ASCII Linefeed (adds newline)
 \b	ASCII Backspace"""
 
-from multiprocessing.sharedctypes import Value
+# from multiprocessing.sharedctypes import Value
 
 
-S =  '"Hey what\'s up"'
+# S =  '"Hey what\'s up"'
 ###print(S)
 """
 string1 = print("this me '("i'm cool)'")
@@ -160,6 +160,14 @@ print("This was a number between 1 and 5")"""
 # Composite Data Type
 
 
+# Functions
+a = int(input("enter a number: "))
+b = int(input("enter a number: "))
+
+addition = (a + b)
+print(addition)
+    
+
 
 # Classes, Attributes, and Inheritance
 # Input/Output
@@ -167,9 +175,9 @@ print("This was a number between 1 and 5")"""
 # Miscellaneous
 
 
-s_dic = {'a':[1, 2, 3, 4], 'b': ["hello", "goodbye", "good day"], 'c':[True, False, True], 6 : [20, "hello", True, 120]}
+# s_dic = {'a':[1, 2, 3, 4], 'b': ["hello", "goodbye", "good day"], 'c':[True, False, True], 6 : [20, "hello", True, 120]}
 
-print(s_dic[6])
+# print(s_dic[6])
 
 # loop through dictionary
 # find values 
@@ -178,8 +186,8 @@ print(s_dic[6])
 
 # outside the loop print the whole the dict
 
-for i in s_dic.items():
-    i[1].append('good')
-    print(i[1])
+# for i in s_dic.items():
+#     i[1].append('good')
+#     print(i[1])
 
-print(s_dic)
+# print(s_dic)
